@@ -15,11 +15,11 @@ const Hero = () => {
         </button>
       </nav>
       <h1 className='head_text'>
-        Summarize Articles with <br className='max-md:hidden' />
+        Summera artiklar med <br className='max-md:hidden' />
         <span className='orange_gradient'>OpenAI GPT-4</span>
       </h1>
       <h2 className='desc'>
-        Simplify your reading with Summize, an open-source article summarizer that transforms lengthy articles into clear and concise summaries
+        Förenkla din läsning med Summize, en öppen källkod för artikelsummering som omvandlar långa artiklar till tydliga och koncis sammanfattningar.
 
       </h2>
     </header>
