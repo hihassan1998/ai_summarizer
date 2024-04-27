@@ -31,7 +31,8 @@ This is a web application built for summarizing articles from URLs. It allows us
 - Optionally, explore the history section to view previously summarized articles.
 
 ### Visual Overview:
-![sumz](https://github.com/hihassan1998/ai_summarizer/assets/150392365/b08455d8-7fe1-4c15-8bd4-dc125ca384b2)
+![sumz](https://github.com/hihassan1998/ai_summarizer/assets/150392365/dac90b06-0b74-4d0a-a84e-fd70c8cf8921)
+
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
