@@ -1,5 +1,5 @@
 # Sumz (Article Summarization App)
-Link: https://662cf8bbb91121d5a757cfec--incredible-sawine-0cdbe7.netlify.app/
+Link: https://ai-summarizer-5v1r.onrender.com/
 
 ## Overview
 This is a web application built for summarizing articles from URLs. It allows users to input a URL of an article, and it provides a summarized version of the article's content. The app utilizes a third-party API for article extraction and summarization.
