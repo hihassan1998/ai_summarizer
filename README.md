@@ -1,37 +1,37 @@
-# Sumz (Artikelsummeringsapp)
-Länk: https://662cf8bbb91121d5a757cfec--incredible-sawine-0cdbe7.netlify.app/
+# Sumz (Article Summarization App)
+Link: https://662cf8bbb91121d5a757cfec--incredible-sawine-0cdbe7.netlify.app/
 
-## Översikt
-Detta är en webbapplikation byggd för att summera artiklar från URL:er. Den tillåter användare att ange en URL till en artikel och ger en sammanfattad version av artikelns innehåll. Appen använder en tredjeparts API för extraktion och summering av artiklar.
+## Overview
+This is a web application built for summarizing articles from URLs. It allows users to input a URL of an article, and it provides a summarized version of the article's content. The app utilizes a third-party API for article extraction and summarization.
 
-### Funktioner
-- Inmatningsfält för att ange URL:en till artikeln
-- Knapp för att skicka in URL:en och hämta sammanfattat innehåll
-- Visningsområde för att visa det sammanfattade innehållet
-- Historiksektion för att visa tidigare summerade artiklar
+### Features
+- Input field to enter the URL of the article
+- Button to submit the URL and fetch the summarized content
+- Display area to show the summarized content
+- History section to view previously summarized articles
 - 
-### Lösning (frontend)
-- React: Frontend JavaScript-bibliotek för att bygga användargränssnitt
-- Redux Toolkit: Statshanteringbibliotek för att hantera applikationsstaten
-- Tailwind CSS: Verktygsförst CSS-ramverk för att styla appen
-- RapidAPI: Tredjeparts API som används för extraktion och summering av artiklar
+### Technologies Used
+- React: Frontend JavaScript library for building user interfaces
+- Redux Toolkit: State management library for managing application state
+- Tailwind CSS: Utility-first CSS framework for styling the app
+- RapidAPI: Third-party API used for article extraction and summarization
 
-### Installationsinstruktioner
-- Klona repositoryt till din lokala maskin.
-- Installera beroenden med npm install.
-- Skaffa en API-nyckel från RapidAPI för att komma åt API:et för artikelsummering.
-- Skapa en .env fil i rotkatalogen och spara din API-nyckel som VITE_RAPID_API_KEY=din_api_nyckel_här.
-- Starta utvecklingsservern med npm start.
-- Öppna appen i din webbläsare på http://localhost:3000.
+### Setup Instructions
+-Clone the repository to your local machine.
+- Install dependencies using npm install.
+- Obtain an API key from RapidAPI for accessing the article summarization API.
+- Create a .env file in the root directory and store your API key as - --VITE_RAPID_API_KEY=your_api_key_here.
+- Run the development server using npm start.
+- Access the app in your browser at http://localhost:5173.
 
-### Användning
-1. Ange URL:en till artikeln du vill summera i inmatningsfältet.
-2. Klicka på skicka-knappen för att hämta och visa det sammanfattade innehållet.
-3. Visa det sammanfattade innehållet i visningsområdet.
-4. Utforska valfritt historiksektionen för att visa tidigare summerade artiklar.
+### Usage
+- Enter the URL of the article you want to summarize in the input field.
+- Click the submit button to fetch and display the summarized content.
+- View the summarized content in the display area.
+- Optionally, explore the history section to view previously summarized articles.
 
-### Visuell översikt:
+### Visual Overview:
 ![sumz](https://github.com/hihassan1998/ai_summarizer/assets/150392365/b08455d8-7fe1-4c15-8bd4-dc125ca384b2)
 
-### Licens
-Detta projekt är licensierat under MIT-licensen. Se LICENSE-filen för detaljer.
+### License
+This project is licensed under the MIT License. See the LICENSE file for details.
